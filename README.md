@@ -1,3 +1,11 @@
+---
+
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl4aTBsejhleWs4aWc4OWY3c254ZzYzNHhnY3cyaTA0cGx4ZnZ0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif"  />
+</div>
+
+---
+
 <h1 align="center">Opa 👋Tudo bem?</h1>
 
 ---
@@ -8,11 +16,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl4aTBsejhleWs4aWc4OWY3c254ZzYzNHhnY3cyaTA0cGx4ZnZ0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif"  />
-</div>
 
 ---
 
