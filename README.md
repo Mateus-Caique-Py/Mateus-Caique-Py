@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mim:
 🔭 Atualmente estou trabalhando em projetos de back-end com Python, SQL e pequenas automações para otimizar tarefas do dia a dia.<br><br>🤝 Estou procurando colaborar em projetos open source, APIs e iniciativas de back-end ou dados voltadas para aprendizado.<br><br>👐 Estou procurando ajuda com boas práticas em Python, arquitetura de sistemas e código limpo.<br><br>🌱 Atualmente estou aprendendo Python para back-end, APIs, Git/GitHub e otimização de banco de dados.<br><br>💬 Pergunte-me sobre SQL (T-SQL), consultas em banco de dados, Git, GitHub e fundamentos de back-end.<br><br>⚡ Curiosidade gosto de transformar tarefas repetitivas em scripts e aprender algo novo todos os dias 🚀
 
 
