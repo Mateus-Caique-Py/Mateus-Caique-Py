@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="380px" align="right">
-
 ## Olá, eu sou o Mateus Caique 👋
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="380px" align="right">
 
 **Desenvolvedor .NET & SQL** em São Paulo. Hoje atuo como **Analista de Suporte Pleno na Toledo Piza**, onde trabalho com **C# / ASP.NET**, **SQL Server (T-SQL)** e sustentação de sistemas legados em **VB6**. Fora do trabalho, desenvolvo projetos de **back-end e automação** com **C#**, **Python** e **TypeScript**.
 
