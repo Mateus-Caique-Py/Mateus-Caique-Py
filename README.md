@@ -135,16 +135,16 @@ Veja a trajetória completa no meu [LinkedIn](https://www.linkedin.com/in/mateus
 
 ---
 
+<div align="center">
+
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td><img height="165" src="https://github-readme-stats.vercel.app/api?username=Mateus-Caique-Py&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&include_all_commits=true&locale=pt-br" alt="GitHub Stats" /></td>
-    <td><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Caique-Py&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" /></td>
-  </tr>
-</table>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mateus-Caique-Py&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Caique-Py&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
 
 <img src="https://streak-stats.demolab.com?user=Mateus-Caique-Py&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+
+</div>
 
 ---
 
@@ -154,6 +154,6 @@ Veja a trajetória completa no meu [LinkedIn](https://www.linkedin.com/in/mateus
 
 Me chame no [**LinkedIn**](https://www.linkedin.com/in/mateus-caique) ou por [**e-mail**](mailto:mateuscaique1500@gmail.com).
 
-![Visitas](https://komarev.com/ghpvc/?username=Mateus-Caique-Py&color=2F80ED&style=flat-square&label=Visitas+ao+perfil)
+![Visitas ao perfil](https://hits.sh/github.com/Mateus-Caique-Py.svg?label=Visitas%20ao%20perfil&color=2F80ED&style=flat-square)
 
 </div>
